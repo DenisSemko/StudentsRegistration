@@ -1,0 +1,60 @@
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\bin\Debug\StudentsDB.mdf
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\bin\Debug\StudentsDB_log.ldf
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\bin\Debug\LMVZ.exe.config
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\bin\Debug\LMVZ.exe
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\bin\Debug\LMVZ.pdb
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\obj\Debug\LMVZ.csprojAssemblyReference.cache
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\obj\Debug\LMVZ.MainForm.resources
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\obj\Debug\LMVZ.Properties.Resources.resources
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\obj\Debug\LMVZ.csproj.GenerateResource.cache
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\obj\Debug\LMVZ.csproj.CoreCompileInputs.cache
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\obj\Debug\LMVZ.exe
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\obj\Debug\LMVZ.pdb
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\obj\Debug\LMVZ.AddStudent.resources
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\obj\Debug\LMVZ.MajorFilter.resources
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\obj\Debug\LMVZ.ConditionFilter.resources
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\obj\Debug\LMVZ.GenderFilter.resources
+D:\Мои работы и т.д\C#\LMVZ\LMVZ\obj\Debug\LMVZ.TransactionForm.resources
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\bin\Debug\StudentsDB.mdf
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\bin\Debug\StudentsDB_log.ldf
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\bin\Debug\LMVZ.exe.config
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\bin\Debug\LMVZ.exe
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\bin\Debug\LMVZ.pdb
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\obj\Debug\LMVZ.csprojAssemblyReference.cache
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\obj\Debug\LMVZ.AddStudent.resources
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\obj\Debug\LMVZ.ConditionFilter.resources
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\obj\Debug\LMVZ.GenderFilter.resources
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\obj\Debug\LMVZ.MainForm.resources
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\obj\Debug\LMVZ.MajorFilter.resources
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\obj\Debug\LMVZ.Properties.Resources.resources
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\obj\Debug\LMVZ.TransactionForm.resources
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\obj\Debug\LMVZ.csproj.GenerateResource.cache
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\obj\Debug\LMVZ.exe
+A:\Library\EducationDirectory\Software Engineering major\ЛМВз\Labs\Lab5\LMVZ\LMVZ\obj\Debug\LMVZ.pdb
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\bin\Debug\StudentsDB.mdf
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\bin\Debug\StudentsDB_log.ldf
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\bin\Debug\LMVZ.exe.config
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\bin\Debug\LMVZ.exe
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\bin\Debug\LMVZ.pdb
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.csprojAssemblyReference.cache
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.AddStudent.resources
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.ConditionFilter.resources
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.GenderFilter.resources
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.MainForm.resources
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.MajorFilter.resources
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.Properties.Resources.resources
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.TransactionForm.resources
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.csproj.GenerateResource.cache
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.csproj.CoreCompileInputs.cache
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.exe
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.pdb
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\bin\Debug\Vlc.DotNet.Core.dll
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\bin\Debug\Vlc.DotNet.Core.Interops.dll
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\bin\Debug\Vlc.DotNet.Forms.dll
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\bin\Debug\Interop.WMPLib.dll
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\bin\Debug\AxInterop.WMPLib.dll
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\Interop.WMPLib.dll
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\AxInterop.WMPLib.dll
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.csproj.ResolveComReference.cache
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.Video.resources
+D:\Мои работы и т.д\Всё\2 курс\ЛМВЗ\LMVZ\LMVZ\obj\Debug\LMVZ.csproj.CopyComplete
