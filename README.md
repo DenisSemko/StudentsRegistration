@@ -24,7 +24,7 @@ System provides a friendly UI along with comfortable functionality to collect th
 
 
 ## Technologies Used
-- .Net Framework C#
+- C#
 - MSSQL
 - WinForms
 
